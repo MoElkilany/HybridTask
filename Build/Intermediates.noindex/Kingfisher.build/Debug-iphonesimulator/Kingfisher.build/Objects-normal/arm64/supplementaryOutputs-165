@@ -1,0 +1,36 @@
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift":
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.dia"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.d"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.swiftdeps"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.o"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AuthenticationChallengeResponsable.swiftconstvalues"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift":
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Placeholder.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Placeholder.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Placeholder.d"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Placeholder.o"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Placeholder.swiftdeps"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift":
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.o"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.d"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.dia"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDataProcessor.swiftdeps"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift":
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDownloader.dia"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDownloader.d"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDownloader.o"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDownloader.swiftdeps"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageDownloader.swiftconstvalues"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift":
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageTransition.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageTransition.d"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageTransition.o"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageTransition.dia"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageTransition.swiftdeps"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift":
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageProgressive.swiftconstvalues"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageProgressive.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageProgressive.dia"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageProgressive.o"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageProgressive.d"

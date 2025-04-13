@@ -1,0 +1,48 @@
+{
+  "source": "/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/ProductSubDetailsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "البائع:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "-",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "  كود المنتج : ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "متوفر في المخزن",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "-",
+        "location": {
+          "startingColumn": 112,
+          "startingLine": 87
+        }
+      }
+    ]
+  },
+  "version": 1
+}

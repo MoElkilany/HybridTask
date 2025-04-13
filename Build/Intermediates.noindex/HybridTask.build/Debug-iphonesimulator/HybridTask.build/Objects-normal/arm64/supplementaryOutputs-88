@@ -1,0 +1,18 @@
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/UIKitProductDetails/LocalProductTableViewCell.swift":
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/LocalProductTableViewCell.swiftdeps"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/LocalProductTableViewCell.d"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/LocalProductTableViewCell.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/LocalProductTableViewCell.swiftconstvalues"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/LocalProductTableViewCell.o"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/UIKitProductDetails/UIKitProductDetailsVC.swift":
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.swiftconstvalues"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.o"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.d"
+"/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/DerivedSources/GeneratedAssetSymbols.swift":
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.d"

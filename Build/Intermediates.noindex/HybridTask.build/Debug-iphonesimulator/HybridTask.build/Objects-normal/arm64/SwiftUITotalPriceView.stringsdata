@@ -1,0 +1,40 @@
+{
+  "source": "/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/SwiftUITotalPriceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "الإجمالي :",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "ريال جديد",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "USD",
+        "location": {
+          "startingColumn": 126,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "إضافة الي السلة ",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 55
+        }
+      }
+    ]
+  },
+  "version": 1
+}

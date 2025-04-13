@@ -1,0 +1,4 @@
+module SVGKitSwift {
+header "SVGKitSwift-Swift.h"
+export *
+}

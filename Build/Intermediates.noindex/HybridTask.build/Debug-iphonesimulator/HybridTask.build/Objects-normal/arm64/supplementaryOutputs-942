@@ -1,0 +1,24 @@
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/UIKitProductDetails/ViewModel/UIKitProductDetailsViewModel.swift":
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsViewModel.d"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsViewModel.swiftconstvalues"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsViewModel.o"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsViewModel.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsViewModel.dia"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/UIKitProductDetails/TableCells/ProductDescriptionTableCell.swift":
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductDescriptionTableCell.dia"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductDescriptionTableCell.o"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductDescriptionTableCell.swiftdeps"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductDescriptionTableCell.d"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductDescriptionTableCell.swiftconstvalues"
+"/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/DerivedSources/GeneratedAssetSymbols.swift":
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/GeneratedAssetSymbols.d"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/UIKitProductDetails/UIKitProductDetailsVC.swift":
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.d"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.swiftdeps"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.swiftconstvalues"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.dia"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/UIKitProductDetailsVC.o"

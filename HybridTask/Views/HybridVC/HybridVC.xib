@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Cairo-Bold.ttf">
+            <string>Cairo-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <viewController id="pKj-tv-lma" customClass="HybridVC" customModule="HybridTask" customModuleProvider="target">
+            <view key="view" contentMode="scaleToFill" ambiguous="YES" id="pmb-Oy-EWs">
+                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Bazzarry" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="30t-nd-Pq0">
+                        <rect key="frame" x="100" y="109" width="193" height="100"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="100" id="ReI-ZM-d8d"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Cairo-Bold" family="Cairo" pointSize="51"/>
+                        <color key="textColor" systemColor="systemBackgroundColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <stackView opaque="NO" contentMode="scaleToFill" spacing="25" translatesAutoresizingMaskIntoConstraints="NO" id="c4U-yV-YUd">
+                        <rect key="frame" x="34" y="375" width="325" height="100"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KjB-O5-Hyj">
+                                <rect key="frame" x="0.0" y="0.0" width="150" height="100"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SwiftUI" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hbF-6p-zAe">
+                                        <rect key="frame" x="2" y="2" width="146" height="96"/>
+                                        <fontDescription key="fontDescription" name="Cairo-Bold" family="Cairo" pointSize="30"/>
+                                        <color key="textColor" systemColor="systemIndigoColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vNh-zA-nmK">
+                                        <rect key="frame" x="0.0" y="0.0" width="150" height="100"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain"/>
+                                        <connections>
+                                            <action selector="swiftUIActionBtn:" destination="pKj-tv-lma" eventType="touchUpInside" id="V5I-jm-NWd"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <viewLayoutGuide key="safeArea" id="V3K-nP-opS"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="hbF-6p-zAe" firstAttribute="top" secondItem="V3K-nP-opS" secondAttribute="top" constant="2" id="5Rm-5T-U66"/>
+                                    <constraint firstAttribute="bottom" secondItem="hbF-6p-zAe" secondAttribute="bottom" constant="2" id="FpL-cB-2tq"/>
+                                    <constraint firstItem="vNh-zA-nmK" firstAttribute="top" secondItem="V3K-nP-opS" secondAttribute="top" id="JIQ-T1-GYO"/>
+                                    <constraint firstItem="V3K-nP-opS" firstAttribute="trailing" secondItem="vNh-zA-nmK" secondAttribute="trailing" id="NBo-Ox-9lF"/>
+                                    <constraint firstAttribute="width" constant="150" id="Tm7-Um-Hle"/>
+                                    <constraint firstItem="hbF-6p-zAe" firstAttribute="leading" secondItem="KjB-O5-Hyj" secondAttribute="leading" constant="2" id="Uqu-Gh-G9p"/>
+                                    <constraint firstAttribute="height" constant="100" id="fIQ-KB-HJE"/>
+                                    <constraint firstAttribute="trailing" secondItem="hbF-6p-zAe" secondAttribute="trailing" constant="2" id="ji3-fa-Vln"/>
+                                    <constraint firstItem="V3K-nP-opS" firstAttribute="bottom" secondItem="vNh-zA-nmK" secondAttribute="bottom" id="w9d-2s-Atn"/>
+                                    <constraint firstItem="vNh-zA-nmK" firstAttribute="leading" secondItem="V3K-nP-opS" secondAttribute="leading" id="z0G-Mh-DiL"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nwB-ie-Q7Q">
+                                <rect key="frame" x="175" y="0.0" width="150" height="100"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="UIKit" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G7r-Ag-8im">
+                                        <rect key="frame" x="2" y="2" width="146" height="96"/>
+                                        <fontDescription key="fontDescription" name="Cairo-Bold" family="Cairo" pointSize="30"/>
+                                        <color key="textColor" systemColor="systemIndigoColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2aF-iA-dMr">
+                                        <rect key="frame" x="0.0" y="0.0" width="150" height="100"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain"/>
+                                        <connections>
+                                            <action selector="uiKitActionBtn:" destination="pKj-tv-lma" eventType="touchUpInside" id="rer-53-YVZ"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <viewLayoutGuide key="safeArea" id="Zpr-BW-o36"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="G7r-Ag-8im" secondAttribute="trailing" constant="2" id="2MT-UO-bg7"/>
+                                    <constraint firstItem="Zpr-BW-o36" firstAttribute="bottom" secondItem="2aF-iA-dMr" secondAttribute="bottom" id="59h-hm-MFp"/>
+                                    <constraint firstItem="2aF-iA-dMr" firstAttribute="top" secondItem="Zpr-BW-o36" secondAttribute="top" id="9Hs-xo-1TY"/>
+                                    <constraint firstAttribute="bottom" secondItem="G7r-Ag-8im" secondAttribute="bottom" constant="2" id="FcT-bf-5WJ"/>
+                                    <constraint firstItem="G7r-Ag-8im" firstAttribute="top" secondItem="Zpr-BW-o36" secondAttribute="top" constant="2" id="Kgk-jZ-5jx"/>
+                                    <constraint firstItem="2aF-iA-dMr" firstAttribute="leading" secondItem="Zpr-BW-o36" secondAttribute="leading" id="L5u-wf-P2h"/>
+                                    <constraint firstItem="G7r-Ag-8im" firstAttribute="leading" secondItem="nwB-ie-Q7Q" secondAttribute="leading" constant="2" id="X9f-8Q-GIu"/>
+                                    <constraint firstAttribute="width" constant="150" id="d3h-gz-3od"/>
+                                    <constraint firstItem="Zpr-BW-o36" firstAttribute="trailing" secondItem="2aF-iA-dMr" secondAttribute="trailing" id="inI-Nc-JVj"/>
+                                    <constraint firstAttribute="height" constant="100" id="l2D-po-OT9"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <viewLayoutGuide key="safeArea" id="idu-9p-3rJ"/>
+                <color key="backgroundColor" systemColor="systemCyanColor"/>
+                <constraints>
+                    <constraint firstItem="c4U-yV-YUd" firstAttribute="centerX" secondItem="pmb-Oy-EWs" secondAttribute="centerX" id="8Cr-TQ-Wry"/>
+                    <constraint firstItem="c4U-yV-YUd" firstAttribute="centerY" secondItem="pmb-Oy-EWs" secondAttribute="centerY" id="OKG-Jf-bnq"/>
+                    <constraint firstItem="30t-nd-Pq0" firstAttribute="centerX" secondItem="pmb-Oy-EWs" secondAttribute="centerX" id="VsH-Ff-dP1"/>
+                    <constraint firstItem="c4U-yV-YUd" firstAttribute="top" secondItem="30t-nd-Pq0" secondAttribute="bottom" constant="166" id="XR5-aY-Q4H"/>
+                    <constraint firstItem="30t-nd-Pq0" firstAttribute="top" secondItem="idu-9p-3rJ" secondAttribute="top" constant="50" id="p3o-eY-Y56"/>
+                </constraints>
+            </view>
+            <point key="canvasLocation" x="-813" y="-29"/>
+        </viewController>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemCyanColor">
+            <color red="0.1960784314" green="0.67843137249999996" blue="0.90196078430000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemIndigoColor">
+            <color red="0.34509803919999998" green="0.33725490200000002" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

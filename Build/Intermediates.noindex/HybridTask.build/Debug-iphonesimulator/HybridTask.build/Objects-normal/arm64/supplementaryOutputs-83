@@ -1,0 +1,24 @@
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/ProductSubDetailsView.swift":
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductSubDetailsView.dia"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductSubDetailsView.o"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductSubDetailsView.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductSubDetailsView.d"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ProductSubDetailsView.swiftdeps"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/ImageSlideshowView.swift":
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ImageSlideshowView.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ImageSlideshowView.dia"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ImageSlideshowView.o"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ImageSlideshowView.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ImageSlideshowView.d"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/ViewModel/SwiftUIProductDetailsViewModel.swift":
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIProductDetailsViewModel.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIProductDetailsViewModel.d"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIProductDetailsViewModel.o"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIProductDetailsViewModel.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIProductDetailsViewModel.dia"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/ShareAndFavView.swift":
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ShareAndFavView.swiftconstvalues"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ShareAndFavView.swiftdeps"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ShareAndFavView.o"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ShareAndFavView.d"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/ShareAndFavView.dia"

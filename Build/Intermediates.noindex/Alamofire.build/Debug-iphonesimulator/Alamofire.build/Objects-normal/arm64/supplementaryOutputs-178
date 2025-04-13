@@ -1,0 +1,36 @@
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Alamofire/Source/Core/HTTPMethod.swift":
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.d"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftconstvalues"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.o"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.dia"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoding.swift":
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.d"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.dia"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftdeps"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.o"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Alamofire/Source/Core/HTTPHeaders.swift":
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.d"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.o"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Alamofire/Source/Core/Protected.swift":
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.swiftconstvalues"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.dia"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.swiftdeps"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.o"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.d"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Alamofire/Source/Core/Notifications.swift":
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.swiftconstvalues"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.d"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.o"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.swiftdeps"
+"/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoder.swift":
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.o"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftdeps"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.d"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftconstvalues"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.dia"

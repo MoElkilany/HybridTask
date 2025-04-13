@@ -1,0 +1,18 @@
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/SwiftUIPriceView.swift":
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIPriceView.d"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIPriceView.swiftconstvalues"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIPriceView.dia"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIPriceView.swiftdeps"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIPriceView.o"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/SwiftUINavigationBarView.swift":
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUINavigationBarView.swiftdeps"
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUINavigationBarView.d"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUINavigationBarView.swiftconstvalues"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUINavigationBarView.dia"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUINavigationBarView.o"
+"/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/SwiftUIRatingSummaryView.swift":
+  dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIRatingSummaryView.d"
+  swift-dependencies: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIRatingSummaryView.swiftdeps"
+  diagnostics: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIRatingSummaryView.dia"
+  const-values: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIRatingSummaryView.swiftconstvalues"
+  object: "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/HybridTask.build/Debug-iphonesimulator/HybridTask.build/Objects-normal/arm64/SwiftUIRatingSummaryView.o"

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/ImageSlideshowSDWebImage-master.dia",
+    "emit-module-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/ImageSlideshowSDWebImage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/ImageSlideshowSDWebImage-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/ImageSlideshowSDWebImage-master.swiftdeps"
+  },
+  "/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/ImageSlideshow/ImageSlideshow/Classes/InputSources/SDWebImageSource.swift" : {
+    "const-values" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource.swiftconstvalues",
+    "dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource.d",
+    "diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource.dia",
+    "index-unit-output-path" : "/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource.o",
+    "llvm-bc" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource.bc",
+    "object" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource.o",
+    "swift-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource.swiftdeps",
+    "swiftmodule" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowSDWebImage.build/Objects-normal/arm64/SDWebImageSource~partial.swiftmodule"
+  }
+}

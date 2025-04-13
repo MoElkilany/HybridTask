@@ -1,0 +1,4 @@
+module ImageSlideshowAlamofire {
+header "ImageSlideshowAlamofire-Swift.h"
+export *
+}

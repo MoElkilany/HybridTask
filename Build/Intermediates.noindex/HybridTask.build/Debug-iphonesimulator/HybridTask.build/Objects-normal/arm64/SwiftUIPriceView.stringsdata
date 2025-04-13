@@ -1,0 +1,32 @@
+{
+  "source": "/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/SwiftUIPriceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "تغير العملة ",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "ريال جديد",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "USD",
+        "location": {
+          "startingColumn": 126,
+          "startingLine": 42
+        }
+      }
+    ]
+  },
+  "version": 1
+}

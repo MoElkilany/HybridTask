@@ -1,0 +1,4 @@
+module ImageSlideshowSDWebImage {
+header "ImageSlideshowSDWebImage-Swift.h"
+export *
+}

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/SwiftUIRatingSummaryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "تقييمات وآراء العملاء : ",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "من التقييمات",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "بناء علي ",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "إضافة تقييم",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "يرجي تسجيل الدخول او انشاء حساب اولا للسماح بإضافة تقيميك",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "متابعة",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "من تقييمات العملاء",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 184
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,4 @@
+module CocoaLumberjack {
+umbrella "/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/CocoaLumberjack/Sources/CocoaLumberjack/include"
+export *
+}

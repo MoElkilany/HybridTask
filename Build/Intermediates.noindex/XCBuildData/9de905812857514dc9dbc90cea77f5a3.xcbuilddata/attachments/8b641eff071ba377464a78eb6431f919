@@ -1,0 +1,4 @@
+module ImageSlideshow {
+header "ImageSlideshow-Swift.h"
+export *
+}

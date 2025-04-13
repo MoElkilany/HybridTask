@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ColorCollectionCell" id="gTV-IL-0wX" customClass="ColorCollectionCell" customModule="HybridTask" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="76" height="65"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="76" height="65"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KSz-Wk-Noh">
+                        <rect key="frame" x="18" y="12.666666666666664" width="40" height="40"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zgr-pX-gn6">
+                                <rect key="frame" x="4" y="4" width="32" height="32"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="0.24524006622516556" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="Abe-0c-IJH"/>
+                            <constraint firstAttribute="width" constant="40" id="FSs-lK-qoL"/>
+                            <constraint firstAttribute="bottom" secondItem="zgr-pX-gn6" secondAttribute="bottom" constant="4" id="PwN-aO-jfs"/>
+                            <constraint firstItem="zgr-pX-gn6" firstAttribute="top" secondItem="KSz-Wk-Noh" secondAttribute="top" constant="4" id="QMm-fF-n7W"/>
+                            <constraint firstAttribute="trailing" secondItem="zgr-pX-gn6" secondAttribute="trailing" constant="4" id="a2U-mv-8qu"/>
+                            <constraint firstItem="zgr-pX-gn6" firstAttribute="leading" secondItem="KSz-Wk-Noh" secondAttribute="leading" constant="4" id="nXV-mF-LCu"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="KSz-Wk-Noh" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="bw8-tk-DqV"/>
+                <constraint firstItem="KSz-Wk-Noh" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" id="gZ6-wv-T70"/>
+            </constraints>
+            <size key="customSize" width="76" height="65"/>
+            <connections>
+                <outlet property="collectionCellContainer" destination="KSz-Wk-Noh" id="D4h-ja-IhZ"/>
+                <outlet property="filledColorView" destination="zgr-pX-gn6" id="Zfy-qo-XnI"/>
+            </connections>
+            <point key="canvasLocation" x="137.40458015267174" y="5.2816901408450709"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

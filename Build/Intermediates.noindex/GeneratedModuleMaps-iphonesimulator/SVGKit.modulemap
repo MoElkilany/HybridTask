@@ -1,0 +1,4 @@
+module SVGKit {
+umbrella header "/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/SVGKit/Source/include/SVGKit.h"
+export *
+}

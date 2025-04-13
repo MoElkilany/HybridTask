@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKitSwift-master.dia",
+    "emit-module-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKitSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKitSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKitSwift-master.swiftdeps"
+  },
+  "/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/SVGKit/Source/SwiftUI additions/SVGKFastImageViewSUI.swift" : {
+    "const-values" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI.swiftconstvalues",
+    "dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI.d",
+    "diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI.dia",
+    "index-unit-output-path" : "/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI.o",
+    "llvm-bc" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI.bc",
+    "object" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI.o",
+    "swift-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI.swiftdeps",
+    "swiftmodule" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/SVGKit.build/Debug-iphonesimulator/SVGKitSwift.build/Objects-normal/arm64/SVGKFastImageViewSUI~partial.swiftmodule"
+  }
+}

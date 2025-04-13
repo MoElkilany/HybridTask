@@ -1,0 +1,32 @@
+{
+  "source": "/Users/sgtmac/Desktop/HybridTask/HybridTask/Views/SwiftUIProductDetails/Views/SwiftUIEnterQuantityView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "اخل الكمية : ",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "1",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 19
+        }
+      }
+    ]
+  },
+  "version": 1
+}

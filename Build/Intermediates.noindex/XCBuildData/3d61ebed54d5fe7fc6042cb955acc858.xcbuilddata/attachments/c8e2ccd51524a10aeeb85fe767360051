@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/ImageSlideshowKingfisher-master.dia",
+    "emit-module-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/ImageSlideshowKingfisher-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/ImageSlideshowKingfisher-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/ImageSlideshowKingfisher-master.swiftdeps"
+  },
+  "/Users/sgtmac/Library/Developer/Xcode/DerivedData/HybridTask-eyllpqlcjnyzjddgkncbjpmpatqa/SourcePackages/checkouts/ImageSlideshow/ImageSlideshow/Classes/InputSources/KingfisherSource.swift" : {
+    "const-values" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource.swiftconstvalues",
+    "dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource.d",
+    "diagnostics" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource.dia",
+    "index-unit-output-path" : "/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource.o",
+    "llvm-bc" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource.bc",
+    "object" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource.o",
+    "swift-dependencies" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource.swiftdeps",
+    "swiftmodule" : "/Users/sgtmac/Desktop/HybridTask/Build/Intermediates.noindex/ImageSlideshow.build/Debug-iphonesimulator/ImageSlideshowKingfisher.build/Objects-normal/arm64/KingfisherSource~partial.swiftmodule"
+  }
+}

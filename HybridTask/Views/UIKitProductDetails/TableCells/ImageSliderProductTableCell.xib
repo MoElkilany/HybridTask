@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="316" id="KGk-i7-Jjw" customClass="ImageSliderProductTableCell" customModule="HybridTask" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="316"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="316"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PeQ-du-Igm" customClass="ImageSlideshow" customModule="ImageSlideshow">
+                        <rect key="frame" x="4" y="4" width="312" height="250"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="250" id="qan-jh-Boj"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4NJ-lv-cs3">
+                        <rect key="frame" x="4" y="258" width="312" height="50"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="9" translatesAutoresizingMaskIntoConstraints="NO" id="nHV-KY-55v">
+                                <rect key="frame" x="12" y="7.6666666666666856" width="79" height="35"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Fav" translatesAutoresizingMaskIntoConstraints="NO" id="uk5-1x-hrR">
+                                        <rect key="frame" x="0.0" y="0.0" width="35" height="35"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="35" id="Fcg-jE-zYL"/>
+                                            <constraint firstAttribute="height" constant="35" id="b3L-KS-FFo"/>
+                                        </constraints>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="share" translatesAutoresizingMaskIntoConstraints="NO" id="oxe-ty-ifd">
+                                        <rect key="frame" x="44" y="0.0" width="35" height="35"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="35" id="HHM-Ei-yOp"/>
+                                            <constraint firstAttribute="width" constant="35" id="dze-op-56y"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                            </stackView>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="x6F-bg-Zxc">
+                                <rect key="frame" x="119.66666666666669" y="12.333333333333316" width="73" height="25.666666666666671"/>
+                            </pageControl>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="x6F-bg-Zxc" firstAttribute="centerX" secondItem="4NJ-lv-cs3" secondAttribute="centerX" id="6cT-f5-2nM"/>
+                            <constraint firstAttribute="height" constant="50" id="LEP-Q0-yBO"/>
+                            <constraint firstItem="nHV-KY-55v" firstAttribute="leading" secondItem="4NJ-lv-cs3" secondAttribute="leading" constant="12" id="rxC-od-khV"/>
+                            <constraint firstItem="x6F-bg-Zxc" firstAttribute="centerY" secondItem="4NJ-lv-cs3" secondAttribute="centerY" id="tEg-p2-r37"/>
+                            <constraint firstItem="nHV-KY-55v" firstAttribute="centerY" secondItem="4NJ-lv-cs3" secondAttribute="centerY" id="vgD-aJ-G6A"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="PeQ-du-Igm" secondAttribute="trailing" constant="4" id="IXg-FB-zAe"/>
+                    <constraint firstItem="4NJ-lv-cs3" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="4" id="Khe-xl-Fnb"/>
+                    <constraint firstItem="PeQ-du-Igm" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="4" id="LiQ-xw-SZC"/>
+                    <constraint firstAttribute="trailing" secondItem="4NJ-lv-cs3" secondAttribute="trailing" constant="4" id="UKL-3L-dTm"/>
+                    <constraint firstAttribute="bottom" secondItem="4NJ-lv-cs3" secondAttribute="bottom" constant="4" id="eeF-hP-xOI"/>
+                    <constraint firstItem="PeQ-du-Igm" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="4" id="y6W-Tq-B3u"/>
+                    <constraint firstItem="4NJ-lv-cs3" firstAttribute="top" secondItem="PeQ-du-Igm" secondAttribute="bottom" constant="4" id="zO9-dw-3XR"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="imageSliderProduct" destination="PeQ-du-Igm" id="lA0-IM-mYh"/>
+                <outlet property="pageIndicator" destination="x6F-bg-Zxc" id="dzl-m6-NPt"/>
+            </connections>
+            <point key="canvasLocation" x="129.7709923664122" y="115.49295774647888"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="Fav" width="25" height="25"/>
+        <image name="share" width="25" height="25"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

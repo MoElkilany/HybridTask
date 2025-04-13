@@ -1,0 +1,4 @@
+module ImageSlideshowKingfisher {
+header "ImageSlideshowKingfisher-Swift.h"
+export *
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="ProductDescriptionTableCell" rowHeight="116" id="KGk-i7-Jjw" customClass="ProductDescriptionTableCell" customModule="HybridTask" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="116"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="116"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GsZ-rU-miv">
+                        <rect key="frame" x="12" y="12" width="296" height="100"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="jvkjsvdvjjdvjkjvkdjvkjvkvjdkvjvjdkvjdkvjkvjdkjvkjvdkdjvkdjvdk" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lx4-v3-NZP" customClass="StandardLabel_Regular12" customModule="HybridTask" customModuleProvider="target">
+                                <rect key="frame" x="4" y="4" width="288" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="dVQ-CO-jwA"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="lgK-tm-dgw">
+                                <rect key="frame" x="189.33333333333334" y="68" width="102.66666666666666" height="20"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="value " textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a2g-Po-YXl" customClass="StandardLabel_Regular12" customModule="HybridTask" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="51.333333333333336" height="20"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                        <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=": Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tAs-5n-Sh4" customClass="StandardLabel_Regular12" customModule="HybridTask" customModuleProvider="target">
+                                        <rect key="frame" x="51.333333333333314" y="0.0" width="51.333333333333343" height="20"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="Wmv-wK-W3C">
+                                <rect key="frame" x="78.666666666666657" y="68" width="102.66666666666666" height="20"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="value " textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TU0-qc-s3x" customClass="StandardLabel_Regular12" customModule="HybridTask" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="51.333333333333336" height="20"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                        <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=": Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NDr-Ax-uAP" customClass="StandardLabel_Regular12" customModule="HybridTask" customModuleProvider="target">
+                                        <rect key="frame" x="51.333333333333329" y="0.0" width="51.333333333333329" height="20"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                        <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="lx4-v3-NZP" firstAttribute="top" secondItem="GsZ-rU-miv" secondAttribute="top" constant="4" id="F00-JU-OP5"/>
+                            <constraint firstItem="lgK-tm-dgw" firstAttribute="leading" secondItem="Wmv-wK-W3C" secondAttribute="trailing" constant="8" id="H08-gs-zXJ"/>
+                            <constraint firstItem="Wmv-wK-W3C" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="GsZ-rU-miv" secondAttribute="leading" constant="12" id="T1m-wk-YiS"/>
+                            <constraint firstItem="Wmv-wK-W3C" firstAttribute="centerY" secondItem="lgK-tm-dgw" secondAttribute="centerY" id="TBN-CQ-8R3"/>
+                            <constraint firstAttribute="trailing" secondItem="lgK-tm-dgw" secondAttribute="trailing" constant="4" id="bqD-YJ-yvT"/>
+                            <constraint firstItem="lx4-v3-NZP" firstAttribute="leading" secondItem="GsZ-rU-miv" secondAttribute="leading" constant="4" id="haX-uC-tah"/>
+                            <constraint firstAttribute="height" constant="100" id="ieL-CE-pSa"/>
+                            <constraint firstItem="lgK-tm-dgw" firstAttribute="top" secondItem="lx4-v3-NZP" secondAttribute="bottom" constant="4" id="jA0-hO-oxJ"/>
+                            <constraint firstAttribute="trailing" secondItem="lx4-v3-NZP" secondAttribute="trailing" constant="4" id="uNk-Az-3Ln"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="GsZ-rU-miv" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="12" id="AF8-9I-EUs"/>
+                    <constraint firstItem="GsZ-rU-miv" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="GAL-xK-Rfm"/>
+                    <constraint firstAttribute="bottom" secondItem="GsZ-rU-miv" secondAttribute="bottom" constant="12" id="qc9-mO-Mfj"/>
+                    <constraint firstAttribute="trailing" secondItem="GsZ-rU-miv" secondAttribute="trailing" constant="12" id="vM2-ZY-nyI"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="productDescriptionLbl" destination="lx4-v3-NZP" id="Uqf-xX-ob5"/>
+                <outlet property="productNumberLbl" destination="tAs-5n-Sh4" id="LfS-Bs-XCX"/>
+                <outlet property="productNumberValueLbl" destination="a2g-Po-YXl" id="avt-fd-AjQ"/>
+                <outlet property="productVendorLbl" destination="NDr-Ax-uAP" id="8N0-Mj-BGQ"/>
+                <outlet property="productVendorValueLbl" destination="TU0-qc-s3x" id="o97-ez-Us8"/>
+            </connections>
+            <point key="canvasLocation" x="138.93129770992365" y="45.070422535211272"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
